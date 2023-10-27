@@ -3,7 +3,7 @@ using EbrusPayRoll;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         PayrollModel payroll = new PayrollModel();
 
